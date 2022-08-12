@@ -1,4 +1,4 @@
-# Pomodoro Tracker made with Flutter and MobX
+# Pomodoro Tracker with Flutter and MobX
 
 A Tasks project made with Flutter and usage a Hive local database.
 

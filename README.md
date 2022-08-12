@@ -1,16 +1,35 @@
-# mobx_exemple
+# Pomodoro Tracker made with Flutter and MobX
 
-A new Flutter project.
+A Tasks project made with Flutter and usage a Hive local database.
 
-## Getting Started
+A Pomodoro Tracker project made with Flutter and use MobX
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Work screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshots](./screenshots/work_page.png)
+
+
+## Rest screen
+
+![Screenshots](./screenshots/rest_page.png)
+
+## Packages usage
+
+#Dependencies
+
+* mobx: ^2.0.7+5
+* flutter_mobx: ^2.0.6+1
+* provider: ^6.0.3
+
+#Dev Dependencies 
+
+* build_runner: ^2.2.0
+* mobx_codegen: ^2.0.7
+
+Add this packages in your Flutter file pubspec.yaml and run 
+
+```
+flutter pub get
+```
